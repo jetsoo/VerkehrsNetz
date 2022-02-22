@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.Linie.Linie;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 

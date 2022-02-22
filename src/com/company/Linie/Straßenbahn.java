@@ -1,4 +1,6 @@
-package com.company;
+package com.company.Linie;
+
+import com.company.Linie.Linie;
 
 import java.util.HashMap;
 

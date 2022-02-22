@@ -1,5 +1,10 @@
 package com.company;
 
+import com.company.Linie.Bus;
+import com.company.Linie.Linie;
+import com.company.Linie.Straßenbahn;
+import com.company.Linie.uBahn;
+
 import java.util.*;
 
 public class Main {

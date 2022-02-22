@@ -1,8 +1,10 @@
-package com.company;
+package com.company.Linie;
+
+import com.company.Linie.Linie;
 
 import java.util.HashMap;
 
-public class uBahn extends Linie{
+public class uBahn extends Linie {
 
     public  uBahn(HashMap<String,Double[]> map, Integer nummer,boolean inBetrieb,String name){
         super(map,nummer,inBetrieb,true,name);
