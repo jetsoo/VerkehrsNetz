@@ -1,7 +1,5 @@
 package com.company.Linie;
 
-import com.company.Linie.Linie;
-
 import java.util.HashMap;
 
 public class Straßenbahn extends Linie {
